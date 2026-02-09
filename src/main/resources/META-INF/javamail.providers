@@ -1,0 +1,2 @@
+protocol=jmap; type=store; class=jmap.read.JmapStore; vendor=jmap; version=0.1.0
+protocol=jmap; type=transport; class=jmap.send.JmapTransport; vendor=jmap; version=0.1.0
